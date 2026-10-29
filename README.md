@@ -1,16 +1,23 @@
-Actualmente estudiando, y trabajando en **mi primer proyecto** ✨
+Hola!! 👋👋
 
-**Nombre del juego:** The Divine Search ⚔️
+**¿Quien eres?**
 
-**Género del juego:** Rol y estrategia indie. Asumes el papel de un personaje ya definido en la historia. 🎮📜
-Sigues el flow de la historia, donde eres un caballero de Camelot, que lucha por encontrar un artefacto legendario ⚜️♛
+Mi nombre es Nico Castañeda,, y estoy actualmente **estudiando📚** para ser un futuro animador y diseñador de juegos indie. 🕹️
 
-**Mecánica principal:** Se tiene pensado que sea una **fusión entre novela visual📖**, al estar muy centrado todo en la historia que ocurre, **y los juegos RPG Maker⚔️🎲**, donde controlas al personaje por secciones de la historia, mientras sigues la historia, peleas con enemigos y afrontas los retos que se pongan por delante.
+**¿Qué motor de videojuegos estoy usando??**
 
-**Se tiene la idea de un sistema de combate estratégico** 💡, donde se luche como los personajes que sigue la historia contra los enemigos que la historia pone en su camino. 
+Estoy aprendiendo sobre el motor de videojuegos **Unity** en el centro donde llevo a cabo mis prácticas 🎮
 
-**Motor de desarrollo:** Unity
+**¿Que objetivos tengo para el futuro?**
 
-<img width="172" height="180" alt="image" src="https://github.com/user-attachments/assets/2f8e0b08-e671-482d-948a-9a49aece4636" />
+Mi objetivo final es poder hacer mis propios videojuegos y series animadas/anime, de las historias y personajes que he creado y sigo creando!!📜✨
+
+Para ello, tras acabar el bachillerato tecnológico, me metí en un Grado Superior, **"Animaciones 3D, Videojuegos y Entornos Interactivos"**, donde me enseñan sobre como usar Unity, Blender, y otras aplicaciones. También me enseñan sobre el lenguaje C# para Unity, y entreno también mis bajas habilidades de dibujo para poder mejorar, y así hacer las escenas que tanto hago en mi cabeza sobre mis historias! 💬
+
+
+**¿Como contactas conmigo/ves mi trabajo?**
+
+Tambien me enseñan sobre ArtStation!! Asi que si quieres ver algo de mi trabajo, puedes verlo aquí: jnicolascm.artstation.com
+Aun estoy puliéndome, así que por ahora, no tengo demasiado subido 😓
 
 
